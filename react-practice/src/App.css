@@ -1,0 +1,8 @@
+.friends-lists {
+	display: flex;
+	background-color: aqua;
+	padding: 1em;
+	width: 400px;
+	justify-content: space-between;
+	margin-bottom: 0.5em;
+}
